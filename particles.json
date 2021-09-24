@@ -1,0 +1,26 @@
+{
+    "particles": {
+        "number": {
+            "value": 70,
+            "density": {
+                "enable": true,
+                "value_area": 1500}},
+        "color": {
+            "value": "#FFF"},
+        "shape": {
+            "type": "edge"},
+        "opacity": {
+            "value": 0.5},
+        "size": {
+            "random": {
+                "enable": true,
+                "minimumValue": 0.5},
+            "value":5},
+        "line_linked": {
+            "distance":175,
+            "color": "#FFFFFF"},
+        "move" : {
+            "bounce": true}
+    },
+    "pauseOnBlur":true
+}

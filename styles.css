@@ -23,13 +23,7 @@ body {
     justify-content: flex-end;
 }
 .logo {
-<<<<<<< HEAD
     margin-top: 1em;
-=======
-    margin-top: .5em;
-    margin-left: -2em;
-    height: 100px;
->>>>>>> 0dd8c5934b0694511c77668db24b266b5b5e7299
 }
 #particles-js {
     background-color: #0d47a1;

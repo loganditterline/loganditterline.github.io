@@ -20,7 +20,8 @@
             "distance":175,
             "color": "#FFFFFF"},
         "move" : {
-            "bounce": true}
+            "bounce": true,
+            "out_mode": "bounce"}
     },
     "pauseOnBlur":true
 }

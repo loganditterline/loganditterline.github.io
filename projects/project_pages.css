@@ -4,5 +4,8 @@ html {
 }
 body {
     height: 100%;
+}
+.main_container {
     background-image: linear-gradient(19deg, #21D4FD, #B721FF);
+    
 }

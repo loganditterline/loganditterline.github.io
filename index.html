@@ -11,12 +11,19 @@
     </head>
     <body>
         <!-- Navigation Bar -->
-        <nav class="navbar navbar-expand-md">
+        <nav class="navbar sticky-top navbar-expand-md">
             <button class="navbar-toggler navbar-dark" type="button" data-toggle="collapse" data-target="#main-navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="main-navigation">
                 <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link" href="LoganDitterlineResume.pdf" download="LoganDitterlineResume.pdf">
+                            <img src="images/resume.png" style="width: 25px"> Resume Download</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#about_me">Home</a>
+                    </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#about_me">About</a>
                     </li>
@@ -60,16 +67,16 @@
                 <!-- Languages and Projects-->
                 <div class="project_info" style="margin-top: 4em;" id="languages">
                     Programming Languages
-                    <div class="container-fluid languages" style="margin-top: 2em;">
+                    <div class="container-fluid languages" style="margin-top: 1em;">
                         <img src="images/python.png" class="img-fluid">
                         <img src="images/java.png" class="img-fluid">
                         <img src="images/c.png" class="img-fluid">
                         <img src="images/html5.png" class="img-fluid">
                         <img src="images/javascript.png" class="img-fluid">
                     </div>
-                    <div id="projects"></div>
+                    <div id="projects" style="padding-top: 1em;"></div>
                     Projects
-                    <div class="row" style="margin-top: 2em; height: 300px;">
+                    <div class="row" style="margin-top: 2em; height: 300px; ">
                         <div class="col-lg-auto col-md-4 col-sm-4 offset-lg-3 project">
                             <a href="projects/sudoku.html"><img src="images/sudoku.png" class="img-fluid"></a>
                             <p>Sudoku <br>Solver</p>

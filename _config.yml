@@ -26,13 +26,14 @@ linkedin_username: loganditterline
 github_username:  loganditterline
 
 # Build settings
-theme: jekyll-theme-just-the-docs
+theme: just-the-docs
 color_scheme: dark
 markdown: kramdown
 baseurl: "/portfolio"
 plugins:
   - jekyll-feed
 collections_dir: "docs"
+remote_theme: just-the-docs/just-the-docs
 
 favicon_ico: '/assets/images/penguin.png'
 

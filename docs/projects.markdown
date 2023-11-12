@@ -5,4 +5,6 @@ permalink: /projects/
 has_children: true
 ---
 
-This is the projects page where there are links to other projects
+# Welcome to My Projects
+
+## Choose any project below to view

@@ -11,4 +11,4 @@ permalink: /
 
 # Hello!
 
-Welcome to my portfolio! On this site you'll find a log of my previous experiences as well as past projects I have developed personally.
+Welcome to my portfolio! On this site you'll find a history of my previous experiences as well as past projects I have developed personally. I'm currently a senior at the University of Texas at Austin, slated to graduated in December 2023. I am primarily interested in backend development but also have experience in frontend development.

@@ -29,7 +29,6 @@ github_username:  loganditterline
 # theme: just-the-docs
 color_scheme: dark
 markdown: kramdown
-baseurl: "/portfolio"
 plugins:
   - jekyll-feed
 collections_dir: "docs"

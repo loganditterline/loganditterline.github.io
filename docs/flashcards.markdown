@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Flashcards
-permalink: /projects/Flashcards
+permalink: /projects/flashcards
 parent: Projects
 nav_order: 1
 ---

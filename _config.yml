@@ -33,7 +33,7 @@ baseurl: "/portfolio"
 plugins:
   - jekyll-feed
 collections_dir: "docs"
-remote_theme: just-the-docs/just-the-docs
+remote_theme: pmarsceill/just-the-docs
 
 favicon_ico: '/assets/images/penguin.png'
 
